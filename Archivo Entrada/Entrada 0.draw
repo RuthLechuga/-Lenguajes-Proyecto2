@@ -1,0 +1,31 @@
+/*
+Ejemplo uso de Draw Math 
+*/
+inicio math
+
+inicio declaracion constantes y variables
+//variables
+fin declaracion constantes y variables
+
+inicio declaracion funciones
+inicio funcion
+valor = dividir(1,x),
+nombre = prueba
+fin funcion
+fin declaracion funciones
+
+inicio generacion graficas
+inicio grafica
+nombre = hiperbola,
+x_positivo = 10,
+x_negativo = 10,
+y_positivo = 10,
+y_negativo = 10,
+ancho = 600,
+largo = 600,
+ruta = "ruta//",
+funcion = prueba
+fin grafica
+fin generacion graficas
+
+fin math

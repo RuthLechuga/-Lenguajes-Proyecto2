@@ -1,0 +1,80 @@
+Inicio Math  
+//Declaracion de variables y constastes
+Inicio Declaracion Constantes y Variables
+
+inicio constante
+nombre=mami,
+valor = 12.5,
+tipo = Decimal
+fin constante
+
+Fin Declaracion Constantes y Variables    
+
+/*Definicion de   
+funciones */  
+Inicio Declaracion Funciones   
+
+Inicio Funcion    
+nombre = funcion1,    
+valor = Suma(Coseno(x),2)  //y=Cos(x)+2   
+Fin Funcion   
+
+Inicio Funcion    
+nombre = funcion2,    
+valor = Suma(RaizCuadrada(Multiplicar(var1,Potencia(x,5))), 3)  //z=sqr(x^5*var1)+y     
+Fin Funcion 
+
+Inicio Funcion    
+nombre = funcion3,       
+valor = Tangente(x)  //y=Tan(x)   
+Fin Funcion  
+
+inicio funcion
+valor = Suma(Suma(Potencia(x,2),x),1), //x^2+x+1
+nombre = funcion4
+fin funcion
+
+Fin Declaracion Funciones 
+
+//Creacion de graficas  
+Inicio Generacion graficas   
+
+Inicio grafica    
+nombre = grafica1,    
+x_positivo= 10,    
+x_negativo= 10,    
+y_positivo=10,    
+y_negativo= 2,    
+ancho=560,    
+largo=560,    
+ruta = "C:\users\usuario1\imagenes\",    
+funcion= funcion3   
+Fin grafica   
+
+Inicio grafica   
+nombre = grafica2,    
+x_positivo= 10,    
+x_negativo= 10,    
+y_positivo=6,    
+y_negativo= 2,    
+ancho=560,    
+largo=560,    
+ruta = "C:\users\usuario1\imagenes\",
+funcion= funcion1      
+Fin grafica   
+
+Inicio grafica   
+nombre = parabola,    
+x_positivo= 10,    
+x_negativo= 10,    
+y_positivo=6,    
+y_negativo= 4,    
+ancho=560,    
+largo=560,    
+ruta = "C:\users\usuario1\imagenes\",
+funcion= funcion4      
+Fin grafica  
+
+Fin Generacion graficas  
+
+Fin Math

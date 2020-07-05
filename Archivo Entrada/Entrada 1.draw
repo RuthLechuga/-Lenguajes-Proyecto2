@@ -1,0 +1,98 @@
+Inicio Math  
+//Declaracion de variables y constastes
+Inicio Declaracion Constantes y Variables
+
+Inicio constante
+nombre=cons1, 
+tipo= Entero,    
+valor = Multiplicar(4,Multiplicar(5,Potencia(Dividir(20,4),3))) //4*5*(20/4)^3   
+Fin constante   
+
+Inicio constante    
+tipo= Decimal,    
+valor = 20.32,    
+nombre=cons2     
+Fin constante
+
+Inicio constante  
+nombre = var1,    
+tipo = Entero,    
+valor = Multiplicar(10,cons1) //10*cons1   
+Fin constante 
+
+Inicio constante 
+nombre = var2,   
+tipo = Decimal,    
+valor = Multiplicar(5.36,cons2) //5.36*cons2   
+Fin constante  
+
+Fin Declaracion Constantes y Variables    
+
+/*Definicion de   
+funciones */  
+Inicio Declaracion Funciones   
+
+Inicio Funcion    
+nombre = funcion1,    
+valor = Suma(Coseno(x),2)  //y=Cos(x)+2   
+Fin Funcion   
+
+Inicio Funcion    
+nombre = funcion2,    
+valor = Suma(RaizCuadrada(Multiplicar(var1,Potencia(x,5))), 3)  //z=sqr(x^5*var1)+y     
+Fin Funcion 
+
+Inicio Funcion    
+nombre = funcion3,       
+valor = Tangente(x)  //y=Tan(x)   
+Fin Funcion  
+
+inicio funcion
+valor = Suma(Suma(Potencia(x,2),x),1), //x^2+x+1
+nombre = funcion4
+fin funcion
+
+Fin Declaracion Funciones 
+
+//Creacion de graficas  
+Inicio Generacion graficas   
+
+Inicio grafica    
+nombre = grafica1,    
+x_positivo= 10,    
+x_negativo= 10,    
+y_positivo=10,    
+y_negativo= 2,    
+ancho=560,    
+largo=560,    
+ruta = "Prueba\\",    
+funcion= funcion3   
+Fin grafica   
+
+Inicio grafica   
+nombre = grafica2,    
+x_positivo= 10,    
+x_negativo= 10,    
+y_positivo=6,    
+y_negativo= 2,    
+ancho=560,    
+largo=560,    
+ruta = "Prueba\\",    
+funcion= funcion1      
+Fin grafica   
+
+Inicio grafica   
+nombre = parabola,    
+x_positivo= 10,    
+x_negativo= 10,    
+y_positivo=6,    
+y_negativo= 4,    
+ancho=200,    
+largo=200,    
+ruta = "Prueba\\",    
+funcion= funcion4      
+Fin grafica  
+
+Fin Generacion graficas  
+
+Fin Math

@@ -1,0 +1,31 @@
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.exe.config
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.exe
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.pdb
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.csprojResolveAssemblyReference.cache
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Properties.Resources.resources
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.csproj.GenerateResource.Cache
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.exe
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.pdb
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Principal.resources
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Formas.GaleriaFunciones.resources
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.exe.config
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.exe
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.pdb
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.csprojResolveAssemblyReference.cache
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Formas.GaleriaFunciones.resources
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Principal.resources
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Properties.Resources.resources
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.csproj.GenerateResource.Cache
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.exe
+C:\Users\Ruth Lechuga\Desktop\[LPF]Proyecto2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.pdb
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.exe.config
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.exe
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\bin\Debug\[LPF]Proyecto2_201602975.pdb
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.csprojResolveAssemblyReference.cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Formas.GaleriaFunciones.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Principal.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\_LPF_Proyecto2_201602975.Properties.Resources.resources
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.csproj.GenerateResource.Cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.csproj.CoreCompileInputs.cache
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.exe
+C:\Users\mini_\Documents\U\2017\Segundo Semestre\[LPF]P2_201602975\Código Fuente\[LPF]Proyecto2_201602975\obj\Debug\[LPF]Proyecto2_201602975.pdb

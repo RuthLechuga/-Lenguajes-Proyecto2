@@ -1,0 +1,22 @@
+//ESTRUCTURA GENERAL PROGRAMA
+
+inicio math
+
+inicio declaracion constantes y variables
+inicio constante
+fin constante
+fin declaracion constantes y variables
+
+inicio declaracion funciones
+inicio funcion
+nombre = funcion2,    
+valor = Suma(RaizCuadrada(Multiplicar(var1,Potencia(x,5))), j) 
+fin funcion
+fin declaracion funciones
+
+inicio generacion graficas
+inicio grafica
+fin grafica
+fin generacion graficas
+
+fin math
